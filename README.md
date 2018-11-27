@@ -62,7 +62,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * "The smart shopping basket: A Case Study with deep learning, Intel Movidius and AWS" - Marcin Stachowiak, Michal Dura, Piotr Szajowski
 * "It is never too much: training deep learning models with more than one modality" - Adam Słucki
 * "Visualize, Explore and Explain Predictive ML Models" - Przemyslaw Biecek
-* "The Dawn of Mind Reading in Python" - Krzysztof Kotowski	
+* [The Dawn of Mind Reading in Python](https://www.dropbox.com/s/bwzdjhsbdfnd2dg/The%20Dawn%20of%20Mind%20Reading%20in%20Python%20-%20Krzysztof%20Kotowski.zip?dl=0) - Krzysztof Kotowski	
 * "Uncertainty estimation and Bayesian Neural Networks" - Marcin Możejko
 * "A deep revolution in speech processing and analysis" - Pawel Cyrta15:30	
 * "Predicting preterm birth with convolutional neural nets" - Tomasz Włodarczyk
